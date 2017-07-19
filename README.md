@@ -54,6 +54,8 @@ html
       h1 {color: red;} 
       p {color: green;}
     style h2 {color: blue;}
+    javascript: type="text/javascript"
+      var message = "some js with an attribute"
   body
     / Multi-line comment
       span this is wrapped in a comment
